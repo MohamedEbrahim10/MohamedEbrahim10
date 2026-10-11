@@ -2,7 +2,7 @@
 
 # Mohamed Ebrahim
 
-### Full-Stack Mobile Software Engineer — Flutter & Dart
+### Flutter Software Engineer — Flutter & Dart
 
 Building resilient, production-grade cross-platform mobile applications<br/>with Clean Architecture, automated OTA delivery, and high-performance UI engines.
 
