@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Mohamed Ebrahim
 
-### Mobile Software Engineer — Flutter & Dart
+### Full-Stack Mobile Software Engineer — Flutter & Dart
 
-Building resilient, production-grade cross-platform mobile applications<br/>with Clean Architecture, automated OTA delivery, and test-driven workflows.
+Building resilient, production-grade cross-platform mobile applications<br/>with Clean Architecture, automated OTA delivery, and high-performance UI engines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ebrahim-02095b381)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ebrahim.abdelwahab.10@gmail.com)
@@ -17,23 +16,23 @@ Building resilient, production-grade cross-platform mobile applications<br/>with
 
 ## About Me
 
-Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dart applications engineered with **Clean Architecture** and **BLoC/Cubit**. I build production ecosystems — from synchronized multi-app logistics with **headless background GPS tracking**, to automated **Over-The-Air patching via Shorebird Code Push**, on-device AI integration, and secure payment gateways.
+Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dart applications engineered with **Clean Architecture** and **BLoC/Cubit**. I build production ecosystems — from synchronized multi-app logistics with headless background GPS tracking, to high-performance **WYSIWYG canvas layout engines**, automated **Over-The-Air patching**, on-device AI integration, and secure payment gateways.
 
 <table>
 <tr>
 <td>🎓</td><td>B.Sc. in Computer Science — <strong>Alexandria University</strong> (2021–2025)</td>
 </tr>
 <tr>
-<td>💼</td><td>Mobile Developer Intern @ <strong>Elevate Tech</strong> (Agile/Scrum, team of 5)</td>
+<td>💼</td><td>Flutter Developer @ <strong>Gomla Market</strong></td>
 </tr>
 <tr>
-<td>🧑‍💻</td><td>Freelance Mobile Developer — cross-functional international teams</td>
+<td>💼</td><td>Mobile Developer Intern @ <strong>Elevate Tech</strong> (Agile/Scrum, team of 5)</td>
 </tr>
 <tr>
 <td>🏆</td><td><strong>Ranked 2nd</strong> among all graduation projects — Alexandria University</td>
 </tr>
 <tr>
-<td>🚀</td><td>Shorebird Code Push (OTA), GitHub Actions CI/CD, Firebase App Distribution</td>
+<td>🚀</td><td>Shorebird Code Push (OTA), GitHub Actions CI/CD, Canvas Layout Engines</td>
 </tr>
 <tr>
 <td>📍</td><td>Alexandria, Egypt</td>
@@ -44,8 +43,15 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 
 ## Experience
 
+### Flutter Developer — Gomla Market
+`Aug 2026 – Present` · `Full Time`
+
+- Architected **MasterApp Pro**, an enterprise-grade WYSIWYG poster and magazine design studio featuring a custom scalable canvas layout engine for high-resolution PDF generation.
+- Engineered advanced state management pipelines utilizing BLoC/Cubit with fine-grained `BlocSelector` and strict `buildWhen` guards, ensuring 60 FPS visual smoothness during complex UI manipulations.
+- Implemented a persistent file-based diagnostic logging infrastructure and integrated deep network telemetry via custom Dio interceptors to synchronize multi-page templates across an ASP.NET Core backend ecosystem.
+
 ### Mobile Developer Intern — Elevate Tech
-`Jan 2026 – Present` · `Remote` · `Agile/Scrum`
+`Jan 2026 – Aug 2026` · `Remote` · `Agile/Scrum`
 
 - Engineered production-grade Flutter modules within a 5-developer Agile squad using **Clean Architecture**, **SOLID**, and **BLoC/Cubit**.
 - Integrated **Shorebird Over-The-Air Code Push** automated via GitHub Actions — instant hotfixes without app store re-reviews.
@@ -69,6 +75,7 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 <td><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </td>
@@ -77,13 +84,19 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 <td><b>Frameworks & SDKs</b></td>
 <td>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Architecture & Principles</b></td>
+<td><b>Architecture & State</b></td>
 <td>
-<code>Clean Architecture</code> <code>BLoC / Cubit</code> <code>OOP</code> <code>SOLID</code> <code>Repository Pattern</code> <code>RxDart</code> <code>GetX</code> <code>dart_either</code>
+<code>Clean Architecture</code> <code>BLoC / Cubit</code> <code>UI Repaint Isolation</code> <code>SOLID</code> <code>Repository Pattern</code> <code>RxDart</code> <code>dart_either</code>
+</td>
+</tr>
+<tr>
+<td><b>Advanced UI & Graphics</b></td>
+<td>
+<code>Canvas API</code> <code>RenderRepaintBoundary</code> <code>InteractiveViewer</code> <code>PDF Generation (Printing)</code> 
 </td>
 </tr>
 <tr>
@@ -95,9 +108,9 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 </td>
 </tr>
 <tr>
-<td><b>Networking & Caching</b></td>
+<td><b>Networking & Telemetry</b></td>
 <td>
-<code>Dio & Interceptors</code> <code>dio_cache_interceptor (Hive)</code> <code>Retrofit</code> <code>RESTful APIs</code> <code>JSON Serialization</code>
+<code>Dio Deep Telemetry</code> <code>dio_cache_interceptor</code> <code>RESTful APIs</code> <code>File-Based Logging</code>
 </td>
 </tr>
 <tr>
@@ -117,7 +130,7 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 <td><b>Firebase & Databases</b></td>
 <td>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-<code>Firestore</code> <code>FCM</code> <code>Crashlytics</code> <code>Analytics</code> <code>Auth</code> <code>Hive</code> <code>Isar</code> <code>Secure Storage</code> <code>PostgreSQL</code>
+<code>Firestore</code> <code>FCM</code> <code>Crashlytics</code> <code>Hive</code> <code>Isar</code> <code>Secure Storage</code> <code>EF Core</code> <code>PostgreSQL</code>
 </td>
 </tr>
 <tr>
@@ -148,6 +161,24 @@ Results-driven **Mobile Software Engineer** specializing in scalable Flutter/Dar
 
 ## Featured Projects
 
+### 🎨 MasterApp Pro — Enterprise WYSIWYG Design Studio
+> **Advanced UI/UX** · Canvas Layout Engine · Omni-Directional Sync · Full-Stack Integration
+
+[![Repository](https://img.shields.io/badge/Repo-masterapp_pro-02569B?style=flat-square&logo=github)](https://github.com/MohamedEbrahim10/masterapppro19-7-2023)
+
+A high-performance poster and magazine design studio featuring a custom scalable canvas layout engine and real-time global master page template synchronization.
+
+| Capability | Implementation |
+|:---|:---|
+| **Canvas Layout Engine** | Millimetric/proportional design configurations with zero-size collapse prevention and `RenderRepaintBoundary` for PDF generation |
+| **UI Repaint Isolation** | Strict `Equatable` contracts, `BlocSelector`, and `buildWhen` guards to prevent state bleeding and guarantee 60 FPS |
+| **Omni-Directional Sync** | Real-time multi-page template synchronization linked directly to an ASP.NET Core / EF Core backend ecosystem |
+| **Diagnostics & Telemetry** | Persistent file-based diagnostic logging and custom Dio interceptors for deep network payload capture |
+
+> **Tech:** Flutter · Dart · Canvas API · BLoC/Cubit · ASP.NET Core · C# · Dio Telemetry · Printing
+
+---
+
 ### 🌸 Flowery — Integrated On-Demand Delivery Ecosystem
 > **Production-Ready** · Shorebird OTA · Live Background GPS · Dual-App Architecture
 
@@ -165,10 +196,7 @@ A synchronized **two-app logistics ecosystem** — consumer e-commerce marketpla
 | **Offline Resilience** | `dio_cache_interceptor` + Hive store for offline-first catalog caching; `dart_either` for error handling |
 | **CI/CD Quality Gates** | Unit tests (`bloc_test`, `mockito`), lint checks, branch/PR validation, Firebase App Distribution |
 
-```
-Tech: Flutter · Dart · Firebase (Firestore, FCM, Crashlytics) · Shorebird · Stripe · Google Maps
-      flutter_map · OSRM · flutter_background_service · Dio Cache · Injectable · GitHub Actions
-```
+> **Tech:** Flutter · Dart · Firebase (Firestore, FCM, Crashlytics) · Shorebird · Stripe · Google Maps · flutter_map · OSRM · flutter_background_service · Dio Cache · Injectable · GitHub Actions
 
 ---
 
@@ -185,9 +213,7 @@ A personalized fitness companion with an **on-device AI coach** powered by Ollam
 - ⚡ **Skeleton Loading** — Smooth `skeletonizer` shimmer states for perceived performance
 - 🧪 **Tested & Modular** — Isolated layers with `Injectable`/`GetIt`, validated with `bloc_test` and `mockito` in CI
 
-```
-Tech: Flutter · Dart · Ollama AI · BLoC/Cubit · Dio · Retrofit · Injectable · Hive · Skeletonizer · GitHub Actions
-```
+> **Tech:** Flutter · Dart · Ollama AI · BLoC/Cubit · Dio · Retrofit · Injectable · Hive · Skeletonizer · GitHub Actions
 
 ---
 
@@ -203,25 +229,23 @@ A full-stack smart travel platform with **algorithmic itinerary generation**, dy
 - 📧 Email notification system via SendGrid
 - 🐳 Containerized backend deployment on Railway
 
-```
-Tech: Flutter · Django REST Framework · PostgreSQL · Firebase · Docker · Railway · SendGrid
-```
+> **Tech:** Flutter · Django REST Framework · PostgreSQL · Firebase · Docker · Railway · SendGrid
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MohamedEbrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEbrahim10&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0d1117" />
+  <img height="170em" src="[https://github-readme-stats.vercel.app/api?username=MohamedEbrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=MohamedEbrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117)" />
+  <img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEbrahim10&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEbrahim10&layout=compact&theme=tokyonight&hide=html,css&border_radius=12&hide_border=true&bg_color=0d1117)" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEbrahim10&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MohamedEbrahim10&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117](https://github-readme-streak-stats.herokuapp.com/?user=MohamedEbrahim10&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117)" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEbrahim10&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=MohamedEbrahim10&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true](https://github-readme-activity-graph.vercel.app/graph?username=MohamedEbrahim10&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true)" />
 </div>
 
 ---
